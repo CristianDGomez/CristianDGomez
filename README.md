@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on something that makes a difference!!
 - 🤔 I’m looking for help with learning.
 - 💬 Ask me about what comes to mind, I am a good conversationalist.
-- 📫 How to reach me: https://www.linkedin.com/in/cristian-david-gomez-arcila-8a8a63126/
+- 📫 How to reach me: (https://www.linkedin.com/in/cristian-david-gomez-arcila-8a8a63126/)
 - ⚡ Fun fact: I am from Colombia, currently living in Argentina, 
               I have experience in the environment, studies of hydrogeology, 
               occupational safety and hygiene and with the desire to learn the world of programming.
