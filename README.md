@@ -1,7 +1,7 @@
 ### Hi, I am Cristian  👋 
 ```js
 const CristianDGomez = {
-  code: [Python, Java],
+  code: [Python, Java, JavaScript, html, css],
   
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
