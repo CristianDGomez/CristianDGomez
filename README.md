@@ -1,9 +1,9 @@
 ### Hi, I am Cristian  👋 
 ```js
 const CristianDGomez = {
-  code: [Python, Java, JavaScript],
+  code: [Python, Java, JavaScript, ],
   
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "Año 2022 iniciar programación"
 }
 <!--
 **CristianDGomez/CristianDGomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
