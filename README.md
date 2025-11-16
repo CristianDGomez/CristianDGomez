@@ -1,4 +1,4 @@
-
+<!-- Banner -->
 <p align="center">
   <img src="https://i.imgur.com/GG6Gf3W.png" width="100%" alt="Cybersecurity Banner"/>
 </p>
@@ -109,4 +109,3 @@ Soy una persona con mentalidad de aprendizaje continuo, adaptable y con fuerte i
 <p align="center">
   💡 *"Aprender, mejorar, construir y proteger. La seguridad es un camino, no un destino."*
 </p>
-
