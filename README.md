@@ -13,7 +13,7 @@ Me caracteriza la disciplina, adaptabilidad y enfoque técnico-práctico para re
 
 Actualmente me encuentro potenciando mi perfil tecnológico con enfoque en:
 
-- 🔐 Seguridad informática  
+- 🔐 Seguridad informatica 
 - 💻 Programación y desarrollo web  
 - 🔧 Soporte técnico y reparación móvil  
 - 🌐 Proyectos que integran tecnología, análisis y gestión del riesgo  
