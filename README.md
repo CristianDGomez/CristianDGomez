@@ -124,5 +124,11 @@ Creo en la mejora constante y en la tecnología como motor para conectar, proteg
   **servitec.cristiand@gmail.com**
 
 ---
+## ⭐ Sobre mí
+Soy una persona con mentalidad de aprendizaje continuo, adaptable y con fuerte interés en la tecnología y la ciberseguridad. Disfruto construir, analizar, mejorar y proteger. Busco oportunidades para ingresar al mundo profesional de la seguridad informática aportando disciplina, conocimientos y compromiso.
 
-<h3 align="center">✨ Gracias por visitar mi perfil. ¡Seguimos construyendo! ✨</h3>
+---
+
+<p align="center">
+  💡 *"Aprender, mejorar, construir y proteger. La seguridad es un camino, no un destino."*
+</p>
