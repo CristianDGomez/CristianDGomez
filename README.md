@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <p align="center">
   <img src="https://i.imgur.com/GG6Gf3W.png" width="100%" alt="Cybersecurity Banner"/>
 </p>
