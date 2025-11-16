@@ -1,105 +1,60 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/GG6Gf3W.png" width="100%" alt="Cybersecurity Banner"/>
-</p>
+# 👋 ¡Hola! Soy Cristian David Gómez Arcila
 
-# 👋 Hola, soy **Cristian David Gómez Arcila**
-### 🔐 Ciberseguridad | Análisis de Logs | Python | Seguridad Defensiva | SOC Jr | Blue Team
+## 🧑‍💻 Perfil Profesional
 
-Soy un profesional con formación multidisciplinaria y un enfoque técnico-práctico. Mi experiencia combina el área ambiental, la tecnología aplicada y la seguridad digital.
+Soy un profesional con formación multidisciplinaria y un enfoque técnico–práctico que integra experiencia en ingeniería ambiental, tecnología aplicada, soporte técnico y ciberseguridad.  
+Me gradué como **Tecnólogo en Control Ambiental** en Colombia y cursé estudios universitarios en **Ingeniería Ambiental** y **Gestión de la Seguridad y Salud Laboral**, lo que me permitió desarrollar una base sólida en normativas, sostenibilidad, gestión del riesgo y procesos industriales.
 
-Me formé en Colombia como Tecnólogo en Control Ambiental, con estudios en Ingeniería Ambiental y Seguridad y Salud Laboral. Además, presté servicio militar en la Armada Nacional, fortaleciendo disciplina, enfoque y resiliencia.
+Mi paso por la **Armada Nacional de Colombia** fortaleció mi disciplina, liderazgo, sentido de responsabilidad y capacidad para adaptarme a entornos exigentes.  
+Posteriormente, trabajé por más de siete años como **consultor ambiental** en Servicios Hidrogeológicos Integrales, participando en proyectos de hidrogeología, manejo de sustancias químicas, estudios técnicos y asesorías para los sectores industrial y energético.
 
-En Argentina expandí mi perfil hacia la tecnología mediante la reparación de dispositivos móviles, programación básica y desarrollo web. Actualmente, me especializo en **Ciberseguridad**, capacitado en el programa **Talento Tech** de IBM, integrando conocimientos de seguridad defensiva, Python y análisis de riesgos.
+## 🔧 Transición Tecnológica
 
----
+Tras mi llegada a Argentina, amplié mi perfil hacia el ámbito tecnológico.  
+Me especialicé en reparación de dispositivos móviles (Android y iPhone) y trabajé de forma independiente bajo la marca **CR TEC**, realizando:
 
-## 🛡️ **En qué estoy trabajando**
-- Herramientas de ciberseguridad con Python  
-- Análisis de logs (SSH, Apache, auth.log)  
-- Escaneos y diagnóstico de vulnerabilidades  
-- Automatización de tareas para Blue Team  
-- Prácticas orientadas a SOC Analyst Jr  
+- Diagnóstico técnico  
+- Reparación y mantenimiento  
+- Soporte al cliente  
+- Venta de accesorios  
 
----
+Esta etapa fortaleció mis habilidades en resolución de problemas, trato directo con usuarios y pensamiento técnico.
 
-## 🧰 **Tecnologías y herramientas**
+## 🌐 Programación y Desarrollo
 
-### 🐍 Lenguajes
-- Python  
-- Java  
-- JavaScript  
-- HTML / CSS  
+Impulsado por mi interés en la tecnología, completé formación en programación y desarrollo web a través del programa **Oracle Next Education – Alura LATAM**, aprendiendo:
 
-### 🔐 Ciberseguridad
-- OWASP Top 10  
-- Análisis de logs  
-- Hashing (SHA-256, SHA-512, MD5)  
-- Ciberseguridad defensiva  
-- Reconocimiento básico  
-- Buenas prácticas de seguridad
+- **Java**  
+- **JavaScript**  
+- **Python**  
+- **HTML & CSS**  
+- **Git y GitHub**  
 
-### ⚙️ Herramientas
-- Git / GitHub  
-- Linux / Bash  
-- Scapy  
-- Requests  
-- Virtual environments  
-- VSCode  
+## 🔐 Ciberseguridad
 
-### 🧩 Otras habilidades
-- Soporte técnico  
-- Reparación de hardware  
-- Diagnóstico electrónico básico  
-- Atención al cliente  
+Mi formación más reciente fue en **ciberseguridad**, a través del programa **Talento Tech impulsado por IBM**, donde adquirí conocimientos en:
+
+- Análisis y mitigación de vulnerabilidades  
+- Fundamentos de seguridad digital  
+- Gestión de riesgos  
+- Monitoreo de amenazas  
+- Buenas prácticas de protección de información  
+
+## 🚀 Filosofía Profesional
+
+Me considero una persona proactiva, adaptable y con vocación por el aprendizaje continuo.  
+Disfruto compartir conocimiento, colaborar con otros profesionales y participar en proyectos donde la tecnología y la seguridad sean protagonistas.
+
+Creo firmemente en la mejora continua como camino para crecer y en la tecnología como puente para conectar, proteger y transformar.
 
 ---
 
-## 📌 **Proyectos destacados**
+### 📫 **Conectemos**
+- **LinkedIn:** [Cristian David Gómez Arcila](https://www.linkedin.com/in/cristian-david-gomez-arcila-8a8a63126)
+- **GitHub:** *Este perfil*  
+- **Email:** *(agregámelo si querés que lo incluya)*
 
-### 🔹 **CyberScanner**  
-Escáner de puertos escrito en Python.  
-Analiza puertos abiertos, identifica servicios y genera reportes.
 
-➡️ *(En tu GitHub lo fijás como destacado)*
-
----
-
-### 🔹 **PasswordGuard**  
-Sistema de evaluación de contraseñas con puntaje de 0 a 100.  
-Utiliza criterios basados en OWASP y entrega recomendaciones.
-
----
-
-### 🔹 Próximos proyectos (en construcción)
-- CyberLogMonitor – Analizador de logs y detección de accesos sospechosos  
-- HashShield – Verificador y generador de hashes  
-- NetSniffer Lite – Capturador básico de paquetes con Scapy  
-- WebVulnScanner – Escáner simple de vulnerabilidades web  
-
----
-
-## 📈 **Estadísticas de GitHub**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CristianDGomez&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDGomez&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🤝 Contacto
-
-📧 **cristian.dgarcila@gmail.com**  
-📧 **servitec.cristiand@gmail.com**  
-
-🔗 **GitHub:** https://github.com/CristianDGomez  
-🔗 **LinkedIn:** *(agregalo cuando quieras que lo incluya también)*
-
----
 
 ## ⭐ Sobre mí
 Soy una persona con mentalidad de aprendizaje continuo, adaptable y con fuerte interés en la tecnología y la ciberseguridad. Disfruto construir, analizar, mejorar y proteger. Busco oportunidades para ingresar al mundo profesional de la seguridad informática aportando disciplina, conocimientos y compromiso.
