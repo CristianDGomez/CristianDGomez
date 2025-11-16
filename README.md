@@ -11,12 +11,12 @@
 Soy un profesional con formación técnica y multidisciplinaria, combinando experiencia en **ingeniería ambiental**, **tecnología aplicada**, **soporte técnico**, **desarrollo web** y **ciberseguridad**.  
 Me caracteriza la disciplina, adaptabilidad y enfoque técnico-práctico para resolver problemas reales.
 
-Actualmente me encuentro potenciando mi perfil tecnológico con enfoque en:
+Actualmente estoy fortaleciendo mi perfil tecnológico con enfoque en:
 
-- 🔐 Seguridad informática
-- 💻 Programación y desarrollo web
-- 🔧 Soporte técnico y hardware móvil
-- 🌐 Proyectos integrales que unen tecnología y gestión del riesgo
+- 🔐 Seguridad Informática  
+- 💻 Programación y Desarrollo Web  
+- 🔧 Soporte Técnico y Hardware Móvil  
+- 🌐 Tecnologías que integran ingeniería, análisis y transformación digital  
 
 ---
 
@@ -24,25 +24,30 @@ Actualmente me encuentro potenciando mi perfil tecnológico con enfoque en:
 
 ### 🎓 Ingeniería & Ambiente  
 - Tecnólogo en **Control Ambiental** – Colombia  
-- Estudios universitarios en **Ingeniería Ambiental**  
+- Estudios en **Ingeniería Ambiental**  
 - Estudios en **Gestión de la Seguridad y Salud Laboral**  
-- +7 años como **Consultor Ambiental** (hidrogeología, sustancias químicas, informes técnicos)
+- Más de 7 años como **Consultor Ambiental**  
+  - Hidrogeología  
+  - Manejo de sustancias químicas  
+  - Informes técnicos para sectores industrial y energético  
 
 ### ⚓ Experiencia Militar  
 - Servicio militar en la **Armada Nacional de Colombia**  
   - Liderazgo  
+  - Trabajo bajo presión  
   - Adaptabilidad  
-  - Disciplina y responsabilidad
+  - Ética y responsabilidad  
 
 ### 🔧 Tecnología & Soporte  
-- Técnico independiente en reparación móvil (**CR TEC**)  
-  - Diagnóstico  
-  - Mantenimiento  
+- Técnico independiente bajo la marca **CR TEC**  
+  - Diagnóstico y reparación de móviles  
+  - Mantenimiento general  
   - Atención al cliente  
-  - Venta de accesorios
+  - Venta de accesorios  
 
 ### 💻 Programación  
-Formado en **Oracle Next Education – Alura LATAM**:  
+Formación en **Oracle Next Education – Alura LATAM** con conocimientos en:
+
 - Java  
 - JavaScript  
 - Python  
@@ -50,12 +55,13 @@ Formado en **Oracle Next Education – Alura LATAM**:
 - Git y GitHub  
 
 ### 🔐 Ciberseguridad  
-Formación en **Talento Tech impulsado por IBM**:  
-- Análisis de vulnerabilidades  
+Formación en **Talento Tech impulsado por IBM**, con enfoque en:
+
+- Análisis y mitigación de vulnerabilidades  
+- Seguridad digital  
 - Gestión del riesgo  
-- Seguridad de la información  
 - Monitoreo de amenazas  
-- Buenas prácticas en ciberseguridad  
+- Protección de la información  
 
 ---
 
@@ -81,15 +87,13 @@ Formación en **Talento Tech impulsado por IBM**:
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CristianDGomez&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDGomez&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDGomez&layout=compact&theme=tokyonight" />
 </p>
-
-> 🔄 **Sustituye `TU_USUARIO` por tu nombre de usuario de GitHub.**
 
 ---
 
@@ -98,12 +102,12 @@ Formación en **Talento Tech impulsado por IBM**:
 Me considero una persona:
 
 ✔ Proactiva  
+✔ Con pensamiento analítico  
 ✔ Orientada al aprendizaje continuo  
 ✔ Colaborativa  
-✔ Enfocada en soluciones reales  
-✔ Amante de la tecnología y la seguridad digital  
+✔ Apasionada por la tecnología y la seguridad digital  
 
-Creo en la mejora continua y en la tecnología como puente para conectar, proteger y transformar.
+Creo en la mejora constante y en la tecnología como motor para conectar, proteger y transformar.
 
 ---
 
@@ -113,9 +117,11 @@ Creo en la mejora continua y en la tecnología como puente para conectar, proteg
   [Cristian David Gómez Arcila](https://www.linkedin.com/in/cristian-david-gomez-arcila-8a8a63126)
 
 - 🐙 **GitHub:**  
-  https://github.com/TU_USUARIO
+  https://github.com/CristianDGomez
 
-- 📧 **Email:** *(pasámelo si querés que lo agregue)*
+- 📧 **Email profesional:**  
+  **cristian.dgarcila@gmail.com**  
+  **servitec.cristiand@gmail.com**
 
 ---
 
