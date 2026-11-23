@@ -1,134 +1,75 @@
-<h1 align="center">👋 ¡Hola! Soy Cristian David Gómez Arcila</h1>
+<div align="center">
 
-<p align="center">
-  Profesional multidisciplinario | Soporte Técnico | Programación | Ciberseguridad | Ingeniería Ambiental
+# 👋 ¡Hola! Soy Cristian David Gómez Arcila
+
+**Analista de Datos & Riesgo Crediticio | Maestrando en Banca y Mercados Financieros | Python, SQL & IA**
+
+</div>
+
+---
+
+### 🚀 Sobre mí
+
+Profesional con sólida trayectoria analítica, operativa y comercial, especializado en transformar grandes volúmenes de datos en decisiones de negocio, evaluación crediticia y optimización de procesos. Combino experiencia en análisis numérico y gestión comercial con herramientas modernas de programación e Inteligencia Artificial.
+
+Actualmente enfocado en:
+* 📊 **Análisis de Datos de Alto Caudal** (Python, SQL, DuckDB, Pandas)
+* 🏦 **Riesgo Crediticio & Finanzas** (Scoring, prevención de morosidad, análisis de cartera y cobranzas)
+* 🤖 **Inteligencia Artificial Aplicada** (Automatización de dictámenes y copilotos analíticos con Gemini API)
+* 🛡️ **Seguridad de la Información & Soporte Técnico**
+
+---
+
+### 🎓 Formación Académica y Profesional
+
+#### 🏦 Banca, Finanzas y Datos
+* **Máster en Banca y Mercados Financieros** — *TECH Global University (En curso)*
+* **Análisis de Datos y Bases de Datos SQL** — *Oracle Next Education (Alura LATAM)*
+* **Ciberseguridad y Protección de Datos** — *Talento Tech (Impulsado por IBM)*
+
+#### 🌱 Ingeniería & Gestión Operativa
+* **Tecnólogo en Control Ambiental** — *Más de 7 años de experiencia como Consultor Ambiental (Hidrogeología, análisis estadístico de datos de campo e informes técnicos para sectores industrial y energético).*
+* **Gestión Comercial, Logística y Cobranzas** — *Supervisión de equipos, control de inventarios, CRM y seguimiento de cuentas corrientes.*
+
+---
+
+### 🛠️ Tech Stack
+
+**Lenguajes y Consultas**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,java,js" />
 </p>
 
----
-
-## 🚀 Sobre mí
-
-Soy un profesional con formación técnica y multidisciplinaria, combinando experiencia en **ingeniería ambiental**, **tecnología aplicada**, **soporte técnico**, **desarrollo web** y **ciberseguridad**.  
-Me caracteriza la disciplina, adaptabilidad y enfoque técnico-práctico para resolver problemas reales.
-
-Actualmente estoy fortaleciendo mi perfil tecnológico con enfoque en:
-
-- 🔐 Seguridad Informática  
-- 💻 Programación y Desarrollo Web  
-- 🔧 Soporte Técnico y Hardware Móvil  
-- 🌐 Tecnologías que integran ingeniería, análisis y transformación digital  
-
----
-
-## 🧩 Formación Profesional
-
-### 🎓 Ingeniería & Ambiente  
-- Tecnólogo en **Control Ambiental** – Colombia  
-- Estudios en **Ingeniería Ambiental**  
-- Estudios en **Gestión de la Seguridad y Salud Laboral**  
-- Más de 7 años como **Consultor Ambiental**  
-  - Hidrogeología  
-  - Manejo de sustancias químicas  
-  - Informes técnicos para sectores industrial y energético  
-
-### ⚓ Experiencia Militar  
-- Servicio militar en la **Armada Nacional de Colombia**  
-  - Liderazgo  
-  - Trabajo bajo presión  
-  - Adaptabilidad  
-  - Ética y responsabilidad  
-
-### 🔧 Tecnología & Soporte  
-- Técnico independiente bajo la marca **CR TEC**  
-  - Diagnóstico y reparación de móviles  
-  - Mantenimiento general  
-  - Atención al cliente  
-  - Venta de accesorios  
-
-### 💻 Programación  
-Formación en **Oracle Next Education – Alura LATAM** con conocimientos en:
-
-- Java  
-- JavaScript  
-- Python  
-- HTML & CSS  
-- Git y GitHub  
-
-### 🔐 Ciberseguridad  
-Formación en **Talento Tech impulsado por IBM**, con enfoque en:
-
-- Análisis y mitigación de vulnerabilidades  
-- Seguridad digital  
-- Gestión del riesgo  
-- Monitoreo de amenazas  
-- Protección de la información  
-
----
-
-## 🛠️ Tech Stack
-
-### **Lenguajes**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+**Análisis de Datos, IA & Herramientas**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
 </p>
 
-### **Frontend & Backend**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
-
-### **Herramientas**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+* **Librerías y Motores:** Pandas, NumPy, DuckDB, Scikit-Learn, Google GenAI SDK (Gemini API), Excel Avanzado (Tablas Dinámicas, XLOOKUP).
 
 ---
 
-## 📊 Estadísticas de GitHub
+### 📈 Estadísticas de GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CristianDGomez&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDGomez&theme=tokyonight" />
-</p>
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=CristianDGomez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=CristianDGomez&theme=tokyonight"/>
+</div>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDGomez&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📚 Filosofía Profesional
-
-Me considero una persona:
-
-✔ Proactiva  
-✔ Con pensamiento analítico  
-✔ Orientada al aprendizaje continuo  
-✔ Colaborativa  
-✔ Apasionada por la tecnología y la seguridad digital  
-
-Creo en la mejora constante y en la tecnología como motor para conectar, proteger y transformar.
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CristianDGomez&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 ---
 
-## 📬 Conectemos
+### 🏆 Proyecto Destacado: Motor de Riesgo Crediticio con IA
 
-- 🌐 **LinkedIn:**  
-  [Cristian David Gómez Arcila](https://www.linkedin.com/in/cristian-david-gomez-arcila-8a8a63126)
-
-- 🐙 **GitHub:**  
-  https://github.com/CristianDGomez
-
-- 📧 **Email profesional:**  
-  **cristian.dgarcila@gmail.com**  
-  **servitec.cristiand@gmail.com**
-
----
-## ⭐ Sobre mí
-Soy una persona con mentalidad de aprendizaje continuo, adaptable y con fuerte interés en la tecnología y la ciberseguridad. Disfruto construir, analizar, mejorar y proteger. Busco oportunidades para ingresar al mundo profesional de la seguridad informática aportando disciplina, conocimientos y compromiso.
+* **[credit-risk-engine-ai](https://github.com/CristianDGomez/credit-risk-engine-ai):** Pipeline analítico capaz de procesar **500.000 solicitudes de crédito** en menos de 1 segundo utilizando **Python + DuckDB (SQL)** y generar dictámenes técnicos automatizados mediante **Gemini IA** para casos en zona gris.
 
 ---
 
-<p align="center">
-  💡 *"Aprender, mejorar, construir y proteger. La seguridad es un camino, no un destino."*
-</p>
+### 🤝 Conectemos
+
+* 💼 **LinkedIn:** [Cristian David Gómez Arcila](https://www.linkedin.com/in/cristian-david-arcila-8a8a63126/)
+* 🐙 **GitHub:** [github.com/CristianDGomez](https://github.com/CristianDGomez)
+* 📧 **Email:** cristian.dgarcila@gmail.com
